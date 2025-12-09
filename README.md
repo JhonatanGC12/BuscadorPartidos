@@ -33,3 +33,59 @@ src/fifa/
 └── App.java
 results.csv
 
+
+---
+
+## 🔧 Tecnologías Usadas
+- **Java 8+**
+- **Swing**
+- **POO**
+- **Git & GitHub**
+- **SonarCloud (Quality Gate & Code Analysis)**
+
+---
+
+## Cómo ejecutar
+
+1. Clonar repositorio }
+2. git clone https://github.com/xxx/xxx
+   2. Abrir en Eclipse / IntelliJ / NetBeans  
+3. Colocar `results.csv` en la raíz del proyecto  
+4. Ejecutar `App.java`
+
+---
+
+## Trabajo en equipo (Git)
+
+El proyecto usa:
+- Branches:  
+- `main` (estable)  
+- `dev` (desarrollo)  
+- `feature/*` (nuevas funciones)  
+- Tablero Kanban  
+- WIKI documentada  
+- Issues para tareas del equipo
+
+---
+
+## SonarCloud
+Se integra este proyecto con un análisis automático:
+- Code Smells  
+- Bugs  
+- Vulnerabilidades  
+- Coverage  
+- Duplicación
+
+---
+
+## Autores
+- Integrante 1
+- Integrante 2
+- Integrante 3
+
+---
+
+## 📜 Licencia
+Proyecto académico — libre uso educativo.
+
+

@@ -79,13 +79,12 @@ Se integra este proyecto con un análisis automático:
 ---
 
 ## Autores
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Jhonatan Alejandro Galindo 
+- Joahnsebastian Osorio
 
 ---
 
-## 📜 Licencia
+## Licencia
 Proyecto académico — libre uso educativo.
 
 

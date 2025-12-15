@@ -87,4 +87,7 @@ Se integra este proyecto con un análisis automático:
 ## Licencia
 Proyecto académico — libre uso educativo.
 
+## Autores
+Jhonatan Alejandro Galindo Castañeda
+Jhoansebastian 
 
